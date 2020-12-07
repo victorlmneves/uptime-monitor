@@ -2,6 +2,7 @@
   {
     "name": "Victor Neves",
     "url": "https://www.victorneves.dev",
+    "icon": "https://favicons.githubusercontent.com/www.victorneves.dev",
     "slug": "victor-neves",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 544,
-    "timeWeek": 500,
-    "timeMonth": 482,
-    "timeYear": 482
+    "time": 479,
+    "timeDay": 413,
+    "timeWeek": 488,
+    "timeMonth": 479,
+    "timeYear": 479,
+    "dailyMinutesDown": {}
   }
 ]

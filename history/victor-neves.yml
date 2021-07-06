@@ -1,7 +1,7 @@
 url: https://www.victorneves.dev
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2021-07-05T23:07:38.680Z
+status: down
+code: 502
+responseTime: 1031
+lastUpdated: 2021-07-06T20:27:32.762Z
 startTime: Tue Jan 05 2021 18:16:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

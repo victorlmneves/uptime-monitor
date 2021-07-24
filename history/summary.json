@@ -4,7 +4,7 @@
     "url": "https://www.victorneves.dev",
     "icon": "https://favicons.githubusercontent.com/www.victorneves.dev",
     "slug": "victor-neves",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 1167,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2021-07-24": 0,
       "2021-07-19": 38,
       "2021-06-27": 19,
       "2021-06-16": 41,
